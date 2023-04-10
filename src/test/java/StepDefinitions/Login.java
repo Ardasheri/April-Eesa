@@ -67,5 +67,5 @@ public class Login extends CommonMethods {
 
         WebElement passwordTextBox = driver.findElement(By.id("txtPassword"));
         sendText(passwordTextBox, password);
-//        a comment
+
     }}
